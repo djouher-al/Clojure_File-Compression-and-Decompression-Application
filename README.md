@@ -1,6 +1,6 @@
 # Clojure File Compression and Decompression Application
 
-This project introduces you to functional programming concepts using the Clojure programming language. The goal is to create a small application that allows users to compress and decompress simple text files. The project also includes a menu system for manipulating and displaying input.
+This project introduces  my abilities  with  functional programming concepts using   Clojure. The goal  of this  application  is to allow users to compress and decompress simple text files. The project also includes a menu system for manipulating and displaying input.
 
 ## Features
 
